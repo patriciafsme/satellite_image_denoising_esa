@@ -24,5 +24,7 @@ The notebook explores the balance between noise reduction (denoising) and the pr
 - Successful denoising of raw satellite captures without losing significant morphological information of the observed celestial bodies.
 - Visual comparison of filtering techniques demonstrating the superiority of bilateral filters for astronomical edge preservation.
 
+<img width="1390" height="659" alt="image" src="https://github.com/user-attachments/assets/b2d63f28-06a1-40fd-a0b6-855d3ffb1266" />
+
 ---
 *Project developed as part of the Applied Data Science degree (UCM).*
